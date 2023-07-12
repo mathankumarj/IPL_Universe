@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap");
+
+body{
+    font-family: "Montserrat", sans-serif;
+
+    background: url("https://assets.bcci.tv/bcci/photos/1046/70c885cf-1720-4a77-9bae-d07164f99bf2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+}
+
+#heading{
+    color: black;
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 700px;
+    text-align: center;
+    margin: auto;
+    border-radius: 8px;
+    justify-content: space-around;
+}
+
+#content{
+    display: flex;
+    background-color: rgba(0, 0,0, 0.7);
+    height: 700px;
+    width: 1200px;
+    margin:auto;
+    margin-top: 50px;
+    border-radius: 40px;
+    justify-content: space-evenly;
+}
+
+img{
+    margin: 5px;
+    height: 150px;
+    width: 150px;
+    border: 5px solid whitesmoke;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+
+#title{
+    color: white;
+    display: flex;
+    width: 1000px;
+    background-color: rgb(8, 16, 38);
+    margin: auto;
+    border-radius: 40px;
+    margin: auto;
+    justify-content: space-around;
+   /*color: white;
+    display: flex;
+    width: 1000px;
+    background: black;
+    border-radius: 8px;
+    margin: auto;
+    justify-content: space-around;*/
+}
+
